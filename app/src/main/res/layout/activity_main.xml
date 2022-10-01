@@ -21,7 +21,7 @@
         android:layout_marginTop="20dp"
         android:text="CALCULATE YOUR"
         android:textAlignment="center"
-        android:textColor="#FB8C00"
+        android:textColor="#F4511E"
         android:textSize="20sp"
         android:textStyle="bold" />
 
@@ -32,9 +32,9 @@
         android:layout_below="@+id/txt1"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="5dp"
-        android:background="#10EEF6"
+        android:background="#039BE5"
         android:padding="10dp"
-        android:text="AGE"
+        android:text="@string/age"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="20sp"
