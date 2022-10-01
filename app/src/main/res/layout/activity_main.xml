@@ -10,7 +10,8 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:background="@color/purple_500"/>
+        android:text="@string/booya_2fac"
+        android:background="@color/purple_200"/>
 
     <TextView
         android:id="@+id/txt1"
